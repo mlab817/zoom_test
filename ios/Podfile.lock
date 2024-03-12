@@ -1,0 +1,36 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_zoom_videosdk (0.0.1):
+    - Flutter
+    - ZoomVideoSDK/ZoomVideoSDK
+  - ZoomVideoSDK/CptShare (1.10.1)
+  - ZoomVideoSDK/zm_annoter_dynamic (1.10.1)
+  - ZoomVideoSDK/zoomcml (1.10.1)
+  - ZoomVideoSDK/ZoomVideoSDK (1.10.1)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_zoom_videosdk (from `.symlinks/plugins/flutter_zoom_videosdk/ios`)
+  - ZoomVideoSDK/CptShare (= 1.10.1)
+  - ZoomVideoSDK/zm_annoter_dynamic (= 1.10.1)
+  - ZoomVideoSDK/zoomcml (= 1.10.1)
+  - ZoomVideoSDK/ZoomVideoSDK (= 1.10.1)
+
+SPEC REPOS:
+  trunk:
+    - ZoomVideoSDK
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_zoom_videosdk:
+    :path: ".symlinks/plugins/flutter_zoom_videosdk/ios"
+
+SPEC CHECKSUMS:
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  flutter_zoom_videosdk: 6cfe5ed4a015adaf8c2bc57e50261914f1ddd38b
+  ZoomVideoSDK: 77b629ed2bdbfe1a40658a3dacd9bb58e6d73fef
+
+PODFILE CHECKSUM: 9d4d9f781b02a982e5120db53f0c153f21f8e72c
+
+COCOAPODS: 1.14.3
